@@ -1,5 +1,14 @@
 # gill-react
 
+## 0.0.3
+
+### Patch Changes
+
+- Updated dependencies
+  [[`d3e7220`](https://github.com/nickfrosty/gill/commit/d3e7220c8f7d23cc2bc1e583887ef45ef621134e),
+  [`5de7acb`](https://github.com/nickfrosty/gill/commit/5de7acbc7500fe76d2592b1f989f156f477e85f5)]:
+  - gill@0.0.5
+
 ## 0.0.2
 
 ### Patch Changes
